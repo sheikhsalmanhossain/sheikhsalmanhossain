@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shakhsalmanhusain@gmail.com**
 
-- 📄 Know about my experiences (Linux| Ubuntu | centos | Git/bash | AWS | Docker)
+- 📄 Know about my experiences (Linux| Ubuntu | centos | Git/bash | AWS | Docker | Kubernetes | Github Actions)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
