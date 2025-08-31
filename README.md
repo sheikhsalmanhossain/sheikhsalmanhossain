@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps enthusiast from bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmandevopsart&label=Profile%20views&color=0e75b6&style=flat" alt="salmandevopsart" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Github Actions**
 
 - 📫 How to reach me **shakhsalmanhusain@gmail.com**
 
